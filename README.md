@@ -6,6 +6,7 @@ The app is in need of a revamp and anyone unoccupied who is willing to remain wa
 
 #### IMPORTANT: DM if anyone has an eccentric clickbait name🔥.
 
-Credits: whatsDev
 
-Tutorial: https://www.youtube.com/watch?v=jaVNP3nIAv0
+----
+## Credits
+* [whatsdev](https://www.youtube.com/watch?v=jaVNP3nIAv0)
